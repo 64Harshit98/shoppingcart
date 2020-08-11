@@ -1,0 +1,8 @@
+table {
+	min-width: 100%;
+	border-collapse: collapse;
+}
+
+.fields {
+	border-bottom: 1px solid #707070;
+}

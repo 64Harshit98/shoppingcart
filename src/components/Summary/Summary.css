@@ -1,0 +1,13 @@
+.bill-container {
+	padding: 5px;
+}
+.title {
+	font-weight: 500;
+}
+
+.total {
+	display: block;
+	background-color: #f0efef;
+	padding: 4px;
+	font-weight: 500;
+}

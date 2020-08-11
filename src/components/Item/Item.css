@@ -1,0 +1,22 @@
+.item-name {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.item-name > span {
+	padding: 5px;
+}
+
+.delete:hover {
+	cursor: pointer;
+}
+
+.item-qty > button {
+	border: none;
+	width: 25px;
+}
+
+.item-qty > button:hover {
+	cursor: pointer;
+}
